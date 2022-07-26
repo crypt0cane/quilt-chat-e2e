@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(7, 15, 63);
+  background-image: url("./assets/aurora4.jpg");
+  color: white;
+}

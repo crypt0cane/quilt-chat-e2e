@@ -1,0 +1,4 @@
+{
+  "css.customData": [".vscode/css_custom_data.json"],
+  "solidity.compileUsingRemoteVersion": "v0.8.0+commit.c7dfd78e"
+}

@@ -1,0 +1,7 @@
+{
+  "build": {
+    "image": "fleek/create-react-app",
+    "command": "cd quilt-frontend && yarn && yarn build",
+    "publicDir": "./quilt-frontend/build"
+  }
+}
